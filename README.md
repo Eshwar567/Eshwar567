@@ -1,5 +1,9 @@
 ### Hi there 👋
 - ⚡ Fun fact: ...I am senior quality analyst,learning automation
+🔭 I’m currently working on Selenium Automation
+- 🌱 I’m currently learning Core Java
+- 💬 Ask me about Software testing
+- 📫 How to reach me:You can reach me out via email "eshwar.lanbka54@gmail.com"
 
 <!--
 I am a senior Quality Analyst & Started learning Automation Testing
