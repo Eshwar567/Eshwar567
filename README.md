@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ Fun fact: ...I am senior quality analyst,learning automation
 
 <!--
 I am a senior Quality Analyst & Started learning Automation Testing
